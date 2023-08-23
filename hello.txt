@@ -1,1 +1,1 @@
-belajar merge conflictt
+belajar merge conflict
